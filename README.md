@@ -1,5 +1,5 @@
 # 💫 ABOUT ME
-- 👋 Hi, I’m Manjunatha H M aka **cidopenup**
+- 👋 Hi, I’m Manjunatha H M aka **cidopenup0**
 - 👀 I’m interested in Coding and Tech
 - 🌱 I’m currently learning **DSA in C++**
 - 😄 Pronouns: he/him
