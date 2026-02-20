@@ -21,4 +21,4 @@ I'm an AIML Engineering student at BMSIT College, possinate about Full Stack Dev
 
 **Now Playing**
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315srhi7yjhxtzpu53i26cw6gmki&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=315srhi7yjhxtzpu53i26cw6gmki&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315srhi7yjhxtzpu53i26cw6gmki&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=315srhi7yjhxtzpu53i26cw6gmki&redirect=true)
