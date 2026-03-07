@@ -1,6 +1,6 @@
 # Hi, I'm Manjunatha
 
-I'm an AIML Engineering student at BMSIT College, possinate about Full Stack Development, AI Systems and crafting innovate solutions.
+I'm an AIML Engineering student at BMSIT College, passionate about Full Stack Development, AI Systems and crafting innovate solutions.
 
 ![](https://komarev.com/ghpvc/?username=cidopenup0) [![wakatime](https://wakatime.com/badge/user/41a2a746-792d-44a1-863e-30eb30de96b4.svg)](https://wakatime.com/@cidopenup0)
 
