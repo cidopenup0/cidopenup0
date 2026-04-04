@@ -1,6 +1,7 @@
 # Hi, I'm Manjunatha
 
-I'm an AIML Engineering student at BMSIT College, passionate about Full Stack Development, C++ Backend Development and Applied AI.
+I'm an AIML Engineering student at BMSIT College, passionate about Full Stack Development, C++ Backend Development and AI.
+
 <br>
 I code for the problems I encounter in my daily life.
 
