@@ -2,7 +2,6 @@
 
 I'm an AIML Engineering student at BMSIT College, passionate about Full Stack Development, C++ Backend Development and AI.
 
-<br>
 I code for the problems I encounter in my daily life.
 
 [![wakatime](https://wakatime.com/badge/user/41a2a746-792d-44a1-863e-30eb30de96b4.svg)](https://wakatime.com/@cidopenup0) ![](https://komarev.com/ghpvc/?username=cidopenup0)
